@@ -5,7 +5,7 @@ import Contador from './components/Contador';
 function App() {
   return (
     <div>
-    <h1>Hola mundo react </h1>
+    <h1>Hola mundo react, mi primer app</h1>
     <Contador />
      
     </div>
